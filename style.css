@@ -116,7 +116,9 @@ div a:active {
 }
 
 .section-showcase {
+	display: block;
 	width: 100%;
+	margin-bottom: 100px;
 }
 
 .places-showcase {
@@ -135,9 +137,11 @@ figure {
 }
 
 .section-works {
-	margin: 2% auto 3% auto;
 	color: black;
 	background-color: #fcfcfc;
+	padding-top: 80px;
+	padding-bottom: 100px;
+	margin-top: 800px;
 }
 
 h2 {
@@ -175,6 +179,200 @@ h3+p {
 .steps {
 	margin-top: 50px;
 }
+
+.section-upcoming {
+	color: black;
+	margin-bottom: 100px;
+	padding: 0 10%;
+}
+
+.tour {
+	display: block;
+	float: left;
+	width: 22.5%;
+	text-align: left;
+	border: 2px solid #1abc9c;
+	padding: 20px 30px 10px 30px;
+	margin: 1.25%;
+	background-color: #fcfcfc;
+}
+
+.tours img {
+	width: 100%;
+}
+
+.tours figure {
+	margin-bottom: 3%;
+}
+
+.container-fluid .row:last-child {
+	margin-top: 30px;
+}
+
+.country {
+	font-size: 150%;
+	text-align: center;
+}
+
+.join {
+	margin-top: 40px;
+	text-align: center;
+}
+
+i {
+	margin-right: 4%;
+	font-size: 150%;
+}
+
+.ion-map {
+	color: #16a085;
+}
+
+.description {
+	margin: 0;
+	font-size: 90%;
+}
+
+.duration {
+	margin-right: 3.3%;
+}
+
+.capacity {
+	margin-right: 3%;
+}
+
+.section-package {
+	margin-bottom: 10%;
+	color: black;
+	background-color: #f4f4f4;
+}
+
+
+
+h4,
+h4+p {
+	font-size: 150%;
+	text-align:center;
+	font-weight: 300;
+}
+
+h4+p {
+	font-size: 250%;
+	font-weight: 100;
+}
+
+
+.signup{
+	text-align: center;
+	margin-top: 25px;
+}
+
+.signup a {
+	border-radius: 50px;
+	padding: 10px 30px;
+}
+
+.signup-a {
+	border: 1px solid #1abc9c;
+}
+
+.offer {
+	padding-left: 20px;
+	margin-bottom: 0;
+}
+
+.offers {
+	background-color: #fff;
+	padding-bottom: 50px;
+}
+
+.offer i {
+	color: #1abc9c;
+	font-size: 220%;
+	vertical-align: middle;
+}
+
+.type {
+	background-color: #fcfcfc;
+	padding-top: 5%;
+}
+
+.type h4,
+.type p {
+	margin: 0;
+}
+
+.type p {
+	padding-bottom: 5%;
+}
+
+.cancel {
+	text-decoration: line-through;
+}
+
+.journey {
+	margin-top: 60px;
+	margin-bottom: 30px;
+}
+
+.package {
+	margin-bottom: 130px;
+}
+
+.section-who {
+	color: black;
+	margin-top: 50px;
+	margin-bottom: 50px;
+}
+
+.who {
+	font-weight: 300;
+	margin-bottom: 30px;
+}
+
+.section-who p {
+	text-align: justify;
+	font-size: 100%;
+	padding: 30px;
+	font-weight: 300;
+	line-height: 200%;
+}
+
+.container-fluid-own {
+	width: 70vw;
+	margin: 0 auto;
+}
+
+.icon-who {
+	font-size: 350%;
+	color: #1abc9c;
+	display: inline-block;
+	width: 100%;
+	text-align: center;
+	margin: 0;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 
 
